@@ -41,5 +41,4 @@ public class Circle extends Shape implements Comparable {
 			return 0;
 		}
 	}
-
 }
